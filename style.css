@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'roya';
+    src: url('B-Roya/B\ Roya_0.ttf');
+}
+body{
+    margin: 0%;
+}
+h1{
+ color: rgb(53, 53, 211);
+ font-family: 'roya'; 
+ display: grid;
+ place-items: center; /* مرکز کردن عمودی و افقی */
+ height: ;
+}
+.aval-p {
+    display: grid;
+    place-items: center; /* مرکز کردن عمودی و افقی */
+    height: 0mm; /* ارتفاع 100% نمای صفحه */
+    color: rgb(53, 53, 211);
+    font-family: 'roya';
+}
+.aks:hover{
+    font-size: x-large;
+    font-family: 'roya';
+}
+.aval-h1 :hover {
+    font-size: small;
+}
+
+.darbare {
+    place-items: center;
+    display: block;
+}
+.akbar {
+    place-items: center;
+    display: grid;
+}
+.akbar :hover {
+    font-size: x-large;
+    font-family: 'roya';
+}
+.darbare :hover{
+    font-size: x-large;
+}
