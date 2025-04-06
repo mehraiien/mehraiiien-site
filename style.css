@@ -26,19 +26,15 @@ h1{
 .aval-h1 :hover {
     font-size: small;
 }
-
-.darbare {
-    place-items: center;
-    display: block;
-}
-.akbar {
-    place-items: center;
-    display: grid;
-}
-.akbar :hover {
+.akbar:hover {
     font-size: x-large;
     font-family: 'roya';
 }
-.darbare :hover{
+.darbare:hover {
     font-size: x-large;
+    font-family: 'roya';
+}
+.icon {
+    place-items: center;
+    display: grid;
 }
